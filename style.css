@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(31, 88, 51);
+}
+
+#grid{
+box-sizing: border-box;
+display: grid;
+grid-template-columns: repeat(4,209px);
+justify-content: center;
+align-items: center;
+
+}
+
+
